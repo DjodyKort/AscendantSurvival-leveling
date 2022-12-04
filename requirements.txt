@@ -1,0 +1,11 @@
+opencv-python
+pytweening
+pyperclip
+pyscreeze
+wheel
+pygetwindow
+mouseinfo
+numpy
+pyrect
+pymsgbox
+pyautogui
